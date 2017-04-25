@@ -1,0 +1,19 @@
+.initially-hidden {
+  display: none;
+}
+
+img {
+  max-width: 400px;
+}
+
+.green-background {
+  background-color: lime;
+}
+
+.yellow-background {
+  background-color: yellowgreen;
+}
+
+.red-background {
+  background-color: hotpink;
+}
